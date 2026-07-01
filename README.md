@@ -35,6 +35,10 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://wa.me/919558985337?text=Hi%20Jaydip%2C%20I'm%20connecting%20with%20you%20from%20your%20GitHub%20profile." target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 <a href="https://instagram.com/jaydip_haraniya">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
